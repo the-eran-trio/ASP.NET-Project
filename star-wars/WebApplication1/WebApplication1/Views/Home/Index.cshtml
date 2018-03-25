@@ -1,0 +1,38 @@
+﻿@using WebApplication1.Models;
+@model List<StarWarsCharacter>
+    
+@{ 
+        ViewBag.Title = "Index";
+        Layout = "~/Views/Shared/_Layout.cshtml";
+    }
+
+    <h2>This is a test of the system</h2>
+
+<table>
+    <thead>
+        <tr>
+            <td>Name</td>
+            <td>Home Planet</td>
+            <td>Is Force Sensitive</td>
+            <td>Is Dark Side</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(StarWarsCharacter swc in Model)
+        {
+        <tr>
+            <td>@swc.Name</td>
+            <td>@swc.HomePlanet</td>
+            <td>@swc.IsForceSensitive</td>
+            <td>@swc.IsDarkSide</td>
+        </tr>
+        }
+    </tbody>
+</table>
+
+    <!--This is how you can use code inside of html using Razer
+        @for (int i = 0; i < 100; i++)
+    {
+        <p>@i</p>
+    }
+        -->
