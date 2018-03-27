@@ -3,6 +3,7 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
+
     <script src="~/Scripts/bootstrap.js"></script>
     <script src="~/Scripts/jquery-3.3.1.js"></script>
     <script src="~/Scripts/script.js"></script>
@@ -11,6 +12,22 @@
     <title>@ViewBag.Title</title>
 </head>
 <body>
+    <header>
+        <div class="topFourLinks" align="right">
+            <a href="#">Test Link 1</a> |
+            <a href="#">Test Link 2</a> |
+            <a href="#">Test Link 3</a> |
+            <a href="#">Test Link 4</a>
+        </div>
+        <div class="internalLinks">
+            <!--Come back and figure out how to link to the main page-->
+            <a href="#">Home</a>
+            <a href="https://www.bluechip-llc.com/about/">About</a>
+            <a href="https://www.bluechip-llc.com/contact/">Contact</a>
+            <a href="https://www.bluechip-llc.com/experience/">Experience</a>
+            <a href="https://www.bluechip-llc.com/services/">Services</a>
+        </div>
+    </header>
     <div>
         @RenderBody()
     </div>

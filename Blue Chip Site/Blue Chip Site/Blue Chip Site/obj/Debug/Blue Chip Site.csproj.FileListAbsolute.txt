@@ -69,3 +69,74 @@ C:\Users\erank\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Bl
 C:\Users\erank\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\obj\Debug\Blue Chip Site.csproj.CopyComplete
 C:\Users\erank\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\obj\Debug\Blue Chip Site.dll
 C:\Users\erank\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\obj\Debug\Blue Chip Site.pdb
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\Blue Chip Site.dll.config
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\Blue Chip Site.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\Blue Chip Site.pdb
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\csc.exe
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\csc.exe.config
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\csc.rsp
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\csi.exe
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\csi.exe.config
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\csi.rsp
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.AppContext.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Console.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.IO.Compression.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Security.Claims.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.ValueTuple.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\vbc.exe
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\vbc.exe.config
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\vbc.rsp
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Helpers.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Mvc.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Razor.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Webpages.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Webpages.Razor.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Razor.xml
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Webpages.xml
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Webpages.Razor.xml
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Helpers.xml
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\bin\System.Web.Mvc.xml
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\obj\Debug\Blue Chip Site.csprojResolveAssemblyReference.cache
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\obj\Debug\Blue Chip Site.csproj.CoreCompileInputs.cache
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\obj\Debug\Blue Chip Site.csproj.CopyComplete
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\obj\Debug\Blue Chip Site.dll
+C:\Users\Eran\Documents\GitHub\ASP.NET-Project\Blue Chip Site\Blue Chip Site\Blue Chip Site\obj\Debug\Blue Chip Site.pdb

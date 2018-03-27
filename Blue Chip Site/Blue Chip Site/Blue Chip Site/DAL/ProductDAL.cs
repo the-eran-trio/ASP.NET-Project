@@ -16,7 +16,7 @@ namespace Blue_Chip_Site.DAL
 
             try
             {
-                const string ConnectionString = "Data Source=(LocalDb)\\BlueChipProducts;Initial Catalog=BlueChipProducts;Integrated Security=True;";
+                const string ConnectionString = @"Data Source=(LocalDb)\bluechip;Initial Catalog=bluechipproducts;Trusted_Connection=True";
                 using (SqlConnection conn = new SqlConnection(ConnectionString))
                 {
                     conn.Open();

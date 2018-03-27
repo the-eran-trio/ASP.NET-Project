@@ -1,10 +1,5 @@
-﻿<!--
-
-
-    @using Blue_Chip_Site.Models;
+﻿@using Blue_Chip_Site.Models;
 @model List<Product>
-
--->
 
 @{
     ViewBag.Title = "Index";
@@ -12,33 +7,25 @@
 }
 
 <h2>Banner/Image Area</h2>
+<div class="backgroundArea">
+    <div class="outterGrid"><layer id="placeholderlayer"></layer><div id="placeholderdiv"></div></div>
+    <div class="innerGrid">
+        <h2>Banner/Image Area</h2>
 
-<div class="productGrid">
-    <!--
-
-        add back in the "at" sign before the foreach
-        foreach(Product product in Model)
-        {
-        <div class="wholeProduct">
-        add back in the "at" sign
-            <div>product.ProductID</div>
-        add back in the "at" sign
-            <div>product.ProductName</div>
-        add back in the "at" sign
-            <div>product.ProductDescription</div>
-        </div>
-        }
-
-        -->
-    <div class="wholeProduct">
-        <div class="heading">Test</div>
-        <div class="description">This is a test</div>
-    </div>
-    <div class="wholeProduct">
-        <div class="heading">Testy</div>
-        <div class="description">This is the second test</div>
     </div>
 </div>
-
 <layer id="placeholderlayer"></layer><div id="placeholderdiv"></div>
-                                     <img alt='image0 (9K)' src=' ~/all-the-formulas.jpg' />
+
+
+<div class="productGrid">
+
+    @foreach (Product product in Model)
+    {
+        <div class="wholeProduct">
+            <div class="heading">@product.ProductName</div>
+            <div class="description">@product.ProductDescription</div>
+        </div>
+    }
+
+</div>
+

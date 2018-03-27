@@ -1,6 +1,21 @@
-﻿.productGrid {
+﻿.topFourLinks {
+
+}
+
+.backgroundArea {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+}
+
+.outterGrid {
+    grid-column: 1/6;
+    grid-row: 1/6;
+}
+
+.innerGrid {
+    grid-column: 3/4;
+    grid-row: 3/4;
 }
 
 .heading {
@@ -10,4 +25,9 @@
 
 .description {
     text-align: center;
+}
+
+.productGrid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
 }

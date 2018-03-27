@@ -13,12 +13,10 @@ namespace Blue_Chip_Site.Controllers
         // GET: Home
         public ActionResult Index()
         {
-           // ProductDAL dal = new ProductDAL();
-           // List<Product> model = dal.GetProducts();
+           ProductDAL dal = new ProductDAL();
+           List<Product> model = dal.GetProducts();
 
-           // Don't for get to add the model back into the parameters of the view
-
-            return View();
+            return View(model);
         }
     }
 }
