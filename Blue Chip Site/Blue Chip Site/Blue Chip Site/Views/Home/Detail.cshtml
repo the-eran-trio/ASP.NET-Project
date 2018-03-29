@@ -1,0 +1,27 @@
+﻿@using Blue_Chip_Site.Models;
+@model List<String>
+
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="wholeDetail">
+    @{
+        var counter = 0;
+    }
+    @foreach (String String in Model)
+    {
+        if (counter % 2 == 0)
+        {
+            <div class="detailHeading">@String</div>
+        }
+        else
+        {
+            <div class="detailDescription">@String</div>
+        }
+        counter += 1;
+    }
+</div>
+
+

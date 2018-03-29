@@ -2,12 +2,12 @@
 
 <html>
 <head>
-    <meta name="viewport" content="width=device-width" />
+    <meta name="viewport" content="width=device-width"/>
 
     <script src="~/Scripts/bootstrap.js"></script>
     <script src="~/Scripts/jquery-3.3.1.js"></script>
-    <script src="~/Scripts/script.js"></script>
     <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/script.js"></script>
     <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
     <title>@ViewBag.Title</title>
 </head>
@@ -21,15 +21,21 @@
         </div>
         <div class="internalLinks">
             <!--Come back and figure out how to link to the main page-->
-            <a href="#">Home</a>
-            <a href="https://www.bluechip-llc.com/about/">About</a>
-            <a href="https://www.bluechip-llc.com/contact/">Contact</a>
-            <a href="https://www.bluechip-llc.com/experience/">Experience</a>
-            <a href="https://www.bluechip-llc.com/services/">Services</a>
+            <div class="navigationLink"><a href="@Url.Action("Index", "Home")">Home</a></div>
+            <div class="navigationLink"><a class="navigationLink" href="https://www.bluechip-llc.com/about/">About</a></div>
+            <div class="navigationLink"><a class="navigationLink" href="https://www.bluechip-llc.com/contact/">Contact</a></div>
+            <div class="navigationLink"><a class="navigationLink" href="https://www.bluechip-llc.com/experience/">Experience</a></div>
+            <div class="navigationLink"></div> <a class="navigationLink" href="https://www.bluechip-llc.com/services/">Services</a>
         </div>
     </header>
     <div>
         @RenderBody()
     </div>
+    <footer>
+        <div class="copyright">@@ 2018 Blue Chip, LLC.</div>
+        <a class="socialLink" href="https://www.facebook.com/BlueChipUS/">Facebook</a> |
+        <a class="socialLink" href="https://twitter.com/BlueChipCG">Twitter</a> |
+        <a class="socialLink" href="https://www.linkedin.com/company/46130/">LinkedIn</a>
+    </footer>
 </body>
 </html>

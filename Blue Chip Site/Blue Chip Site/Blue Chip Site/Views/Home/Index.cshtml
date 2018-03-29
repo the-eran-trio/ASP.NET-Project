@@ -6,25 +6,24 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>Banner/Image Area</h2>
 <div class="backgroundArea">
-    <div class="outterGrid"><layer id="placeholderlayer"></layer><div id="placeholderdiv"></div></div>
-    <div class="innerGrid">
-        <h2>Banner/Image Area</h2>
-
+    <div class="outterGrid">
+        <div id="imageDiv"></div>
     </div>
+    <div class="banner">Blue Chip</div>
+    <div class="bannerDescription">Driven to deliver exceptional results</div>
+    <div id="learnMoreLinkDiv"></div>
 </div>
-<layer id="placeholderlayer"></layer><div id="placeholderdiv"></div>
-
 
 <div class="productGrid">
 
     @foreach (Product product in Model)
     {
-        <div class="wholeProduct">
-            <div class="heading">@product.ProductName</div>
-            <div class="description">@product.ProductDescription</div>
-        </div>
+    <div class="wholeProduct">
+        <div class="heading">@product.ProductName</div>
+        <div class="description">@product.ProductDescription</div>
+        <div class="centerButton"><a class="btn btn-light" href="@Url.Action("Detail", "Home", new { name = product.ProductName} )" role="button">View Details</a></div>
+    </div>
     }
 
 </div>

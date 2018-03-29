@@ -1,11 +1,25 @@
 ﻿.topFourLinks {
+    padding-top: 10px;
+    padding-right: 15px;
+    font-size: 15px;
+}
 
+.internalLinks {
+    padding-left: 5px;
+    font-size: 15px;
+}
+
+.navigationLink {
+    padding-left: 10px;
+    display: inline;
 }
 
 .backgroundArea {
+    margin-top: 10px;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    background-color: #003f77;
 }
 
 .outterGrid {
@@ -13,21 +27,294 @@
     grid-row: 1/6;
 }
 
-.innerGrid {
-    grid-column: 3/4;
-    grid-row: 3/4;
+.image {
+    max-width: 100%;
+    z-index: 1;
 }
 
-.heading {
+.banner {
+    grid-column: 2/5;
+    grid-row: 2;
+    z-index: 2;
+    font-size: 6.9vw;
+    text-align: center;
+    margin: 0px;
+    color: #003f77;
+}
+
+.bannerDescription {
+    grid-column: 2/5;
+    grid-row: 3;
+    z-index: 2;
+    font-size: 2vw;
     font-weight: 500;
     text-align: center;
+    margin: 0px;
+    color: #003f77;
 }
 
-.description {
+#learnMoreLinkDiv {
+    grid-column: 5;
+    grid-row: 3;
+    padding-right: 0.7rem;
+    padding-bottom: 0.7rem;
+    align-self: end;
+    justify-self: right;
+    z-index: 2;
+}
+
+.learnMoreButton {
+    display: inline-block;
+    font-weight: 400;
     text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: 0.375rem;
+    font-size: 13px;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    color: #fff;
+    background-color: #003f77;
+    border-color: #003f77;
 }
 
 .productGrid {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+    color: #003f77;
+}
+
+.wholeProduct {
+    display: grid;
+    grid-template-rows: max-content;
+}
+
+.heading {
+    font-size: 3vw;
+    font-weight: 500;
+    text-align: center;
+    grid-row: 1;
+}
+
+.description {
+    font-size: 2vw;
+    text-align: center;
+    grid-row: 2;
+    padding-top: 5px;
+}
+
+.centerButton {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-row: 3;
+}
+
+.btn-light {
+    font-size: 13px;
+    color: #003f77;
+    background-color: #d7d7d7;
+    border-color: #003f77;
+}
+
+.wholeDetail {
+    display: grid;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    grid-gap: 10px;
+}
+
+.detailHeading {
+    font-size: 2em;
+    font-weight: 400;
+    color: #003f77;
+}
+
+footer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1rem;
+}
+
+.copyright {
+    align-self: baseline;
+    display: inline;
+    padding-right: 10px;
+}
+
+
+@media only screen and (max-width: 780px) {
+    .topFourLinks {
+        font-size: 10px;
+    }
+
+    .internalLinks {
+        font-size: 10px;
+    }
+
+    .navigationLink {
+        padding-left: 5px;
+    }
+
+    .image {
+        min-height: 100%;
+    }
+
+    .learnMoreButton {
+        display: inline-block;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        border: 1px solid transparent;
+        padding: 0.2rem;
+        font-size: 8px;
+        line-height: 1.5;
+        border-radius: 0.25rem;
+        transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+        color: #fff;
+        background-color: #003f77;
+        border-color: #003f77;
+    }
+
+    .btn-light {
+        font-size: 8px;
+        color: #003f77;
+        background-color: #d7d7d7;
+        border-color: #003f77;
+    }
+
+    .detailHeading {
+        font-size: 1.5em;
+    }
+
+    .detailDescription {
+        font-size: 13px;
+    }
+
+    .detailOther {
+        font-size: 13px;
+    }
+
+    footer {
+        font-size: 10px;
+    }
+}
+
+@media only screen and (max-width: 578px) {
+    .topFourLinks {
+        font-size: 12px;
+        padding-bottom: 5px;
+    }
+
+    .internalLinks {
+        font-size: 12px;
+    }
+
+    .navigationLink {
+        padding-left: 3px;
+    }
+
+    .learnMoreButton {
+        display: inline-block;
+        font-weight: 400;
+        text-align: center;
+        white-space: nowrap;
+        vertical-align: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        border: 1px solid transparent;
+        padding: 0.2rem;
+        font-size: 5px;
+        line-height: 1.5;
+        border-radius: 0.25rem;
+        transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+        color: #fff;
+        background-color: #003f77;
+        border-color: #003f77;
+    }
+
+    .productGrid {
+        grid-template-columns: unset;
+        grid-template-rows: repeat(3, 1fr);
+    }
+
+
+    .detailHeading {
+        font-size: 1.25em;
+    }
+
+    .detailDescription {
+        font-size: 13px;
+    }
+
+    .detailOther {
+        font-size: 13px;
+    }
+
+    footer {
+        font-size: 12px;
+    }
+}
+
+@media only screen and (min-width: 1300px) {
+    footer {
+        grid-row: 4;
+        position: unset;
+        right: unset;
+        bottom: unset;
+        left: unset;
+        padding-bottom: 1rem;
+        padding-left: 1rem;
+        font-size: 15px;
+    }
+
+    .copyright {
+        align-self: unset;
+        display: inline;
+        padding-right: 10px;
+    }
+}
+
+@media only screen and (max-height: 564px) {
+    .internalLinks {
+        padding-left: 2px;
+    }
+
+    footer {
+        grid-row: 4;
+        position: unset;
+        right: unset;
+        bottom: unset;
+        left: unset;
+        padding: 1rem;
+        font-size: 15px;
+    }
+
+    .copyright {
+        align-self: unset;
+        display: inline;
+        padding-right: 10px;
+    }
 }
